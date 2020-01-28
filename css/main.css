@@ -1,0 +1,68 @@
+.search_taxi{
+  margin-left: 400px;
+  font-size: 24px;
+  color: #fff;
+}
+.list_servise_taxi{border: 1px solid red; width: 790px; height: auto; padding: 10px;color: white;}
+.comment_servise_taxi{border: 1px solid red; width: 390px; height: auto; padding: 10px;color: white;}
+.article_servise_taxi{border: 1px solid red; width: 900px; height: auto; padding: 10px;color: white;}
+.admins{border: 1px solid red; width: 390px; height: auto; padding: 10px;color: white;}
+.abouta{color: white; font-style: italic;font-size: 20px;margin-left: 20px;}
+.contact_form{}
+.com{font-size: 18px; color:red;}
+.article_taxi{color: white; font-size: 25px;margin-left: 40px; width: 600px;}
+.search_taxi input{
+  width: 500px;
+}
+.search_taxi h4{color:#fff;font-size: 40px;}
+.prokrytka{
+margin-left: 400px;
+height: 280px; /* высота нашего блока */
+width: 500px; /* ширина нашего блока */
+border: 1px solid rgba(0, 0, 0, 0); /* размер и цвет границы блока */
+overflow-y: scroll ;/* прокрутка по вертикали */
+background: rgba(0, 0, 0, 0);
+font-size: 24px;
+color: #fff;
+}
+.left_board{float: left;color: white; font-size: 25px;}
+.right_board{float: right;color: white; font-size: 25px;}
+.up_banner{color: #fadd73;font-size: 23px;font-style: italic;text-align: center;}
+#name_servise{color:#ffff99;font-style: italic;font-weight: bold;}
+#article_servise{color:#ffff99;font-style: italic;}
+.prokrytka a{color:#fff;}
+.prokrytka a:hover{
+ text-decoration:none;
+ color:red;
+}
+::-webkit-scrollbar-button {
+background-image:url('');
+background-repeat:no-repeat;
+width:5px;
+height:0px
+}
+
+::-webkit-scrollbar-track {
+background-color:#ecedee
+}
+
+::-webkit-scrollbar-thumb {
+-webkit-border-radius: 0px;
+border-radius: 0px;
+background-color:#6dc0c8;
+}
+
+::-webkit-scrollbar-thumb:hover{
+background-color:#56999f;
+}
+
+::-webkit-resizer{
+background-image:url('');
+background-repeat:no-repeat;
+width:4px;
+height:0px
+}
+
+::-webkit-scrollbar{
+width: 4px;
+}
